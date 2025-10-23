@@ -1,12 +1,12 @@
 site_name: 周易 64 卦
 site_description: 周易-易经 64 卦详解
 dev_addr: "127.0.0.1:8080"
-repo_url: https://github.com/sunls2/zhouyi/
-repo_name: sunls2/zhouyi
+# repo_url: https://github.com/sunls2/zhouyi/
+# repo_name: sunls2/zhouyi
 
 nav:
-  - 首页: /
-  - AI 占卜: https://divination.sunls.de
+  - 首页: /zhouyi/other
+  - AI 占卜: https://starloom.ai
 
 plugins:
   - search:
