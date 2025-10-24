@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "ember-froala-editor": "^4.6.2",
+    "froala-editor": "^4.6.2",
+    "react-froala-wysiwyg": "^4.6.2",
+    "vue-froala-wysiwyg": "^4.6.2"
+  }
+}
