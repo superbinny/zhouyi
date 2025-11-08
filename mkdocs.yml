@@ -7,7 +7,6 @@ dev_addr: "127.0.0.1:8080"
 nav:
   - 首页: /zhouyi/other
   - AI 占卜: https://starloom.ai
-  - 繁體体切换: javascript:AutoHan_StranBody()
 plugins:
   - search:
       separator: '[\s\u200b\-]'

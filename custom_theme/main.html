@@ -1,5 +1,12 @@
 {% extends "base.html" %}
 
+{% block content %}
+  
+  <button style="padding: 10px 20px; font-size: 16px; background-color: #747674; color: white; border: none; border-radius: 5px;" onclick="javascript:AutoHan_StranBody()" id='StranLink'>繁体切换</button>
+ 
+  {{ super() }}
+{% endblock %}
+
 {% block scripts %}
 {{ super() }}
 <script src="https://www.autohan.org/js/Std_StranJF.js" integrity="sha384-dCV+UmPZoyu+EQKH2Feh0Omt4XRyIZT8QOsbFvLIr022OVZg9WmgIctnlHCnEJiX" crossorigin="anonymous"></script> 

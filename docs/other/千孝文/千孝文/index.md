@@ -3,9 +3,6 @@ hide:
   - navigation
 ---
 
-<a href='javascript:AutoHan_StranBody()' id='StranLink'>繁體介面</a>
-<script src="https://www.autohan.org/js/Std_StranJF.js" integrity="sha384-dCV+UmPZoyu+EQKH2Feh0Omt4XRyIZT8QOsbFvLIr022OVZg9WmgIctnlHCnEJiX" crossorigin="anonymous"></script> 
-
 # 千孝文全文
 
 <center><p style="font-size: 18px;">
