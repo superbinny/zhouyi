@@ -1,7 +1,8 @@
 ---
 hide:
-- navigation
+  - navigation
 ---
+
 # 千字文
 <style>
 .no-border-collapse {

@@ -7,7 +7,7 @@ dev_addr: "127.0.0.1:8080"
 nav:
   - 首页: /zhouyi/other
   - AI 占卜: https://starloom.ai
-
+  - 繁體体切换: javascript:AutoHan_StranBody()
 plugins:
   - search:
       separator: '[\s\u200b\-]'
@@ -15,11 +15,13 @@ plugins:
       minify_html: true
 extra:
   generator: false
+  footer_content: © 2025 NXG Company. All rights reserved.
 extra_css:
   - assets/css/ui.css
   - https://gw.alipayobjects.com/os/k/font/lxgwwenkaiscreenr.css
 theme:
   name: material
+  custom_dir: custom_theme/
   language: zh
   favicon: assets/images/favicon.ico
   icon:

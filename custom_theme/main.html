@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+
+{% block scripts %}
+{{ super() }}
+<script src="https://www.autohan.org/js/Std_StranJF.js" integrity="sha384-dCV+UmPZoyu+EQKH2Feh0Omt4XRyIZT8QOsbFvLIr022OVZg9WmgIctnlHCnEJiX" crossorigin="anonymous"></script> 
+{% endblock %}
+
+{% block footer %}
+  {{ super() }}
+  {% if config.extra.footer_content %}
+ | {{ config.extra.footer_content }}
+  {% endif %}
+{% endblock %}
