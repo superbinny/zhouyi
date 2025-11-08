@@ -3,7 +3,7 @@ hide:
   - navigation
 ---
 
-# 千字文
+# <center> 千字文全文注音及解释
 <style>
 .no-border-collapse {
 border: none;

@@ -3,7 +3,7 @@ hide:
   - navigation
 ---
 
-# 千孝文全文
+# <center>千孝文全文
 
 <center><p style="font-size: 18px;">
 <br>天赐孝久 地狱葬孝 玄奥奇孝 黄种族孝
